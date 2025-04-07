@@ -1,0 +1,34 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/home/alphaspectre/Documents/Unreal Projects/Collectathon/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"/home/alphaspectre/Documents/Unreal Projects/Collectathon/Content/Blueprints/Actors/BP_Gates.uasset",
+				"/home/alphaspectre/Documents/Unreal Projects/Collectathon/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/9Q/U98KGKQ41NJYFOGFQM8ZDY.uasset",
+				"/home/alphaspectre/Documents/Unreal Projects/Collectathon/Content/Materials/NewMaterial.uasset",
+				"/home/alphaspectre/Documents/Unreal Projects/Collectathon/Content/Materials/MintGreen.uasset",
+				"/home/alphaspectre/Documents/Unreal Projects/Collectathon/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/6I/LUFW4PGTFB49ZZE02AYD8I.uasset",
+				"/home/alphaspectre/Documents/Unreal Projects/Collectathon/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/LN/K8VP3C47HX8DDCVFHOE9N4.uasset",
+				"/home/alphaspectre/Documents/Unreal Projects/Collectathon/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/JX/6NFXD72NNWW3FI93PO2BT9.uasset",
+				"/home/alphaspectre/Documents/Unreal Projects/Collectathon/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/Y9/QLLCWVUJH4Y9L2NKTY1P2O.uasset",
+				"/home/alphaspectre/Documents/Unreal Projects/Collectathon/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/02/QDPCZFP47PPB6AD03KRXLJ.uasset",
+				"/home/alphaspectre/Documents/Unreal Projects/Collectathon/Content/Blueprints/Actors/BP_Collectables.uasset",
+				"/home/alphaspectre/Documents/Unreal Projects/Collectathon/Content/BP_Collectables.uasset",
+				"/home/alphaspectre/Documents/Unreal Projects/Collectathon/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"/home/alphaspectre/Documents/Unreal Projects/Collectathon/Content/Widegt_Collectables.uasset",
+				"/home/alphaspectre/Documents/Unreal Projects/Collectathon/Content/Widget_Collectables.uasset",
+				"/home/alphaspectre/Documents/Unreal Projects/Collectathon/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/P8/SR9V4QWX6R5N5HN8REWV3M.uasset",
+				"/home/alphaspectre/Documents/Unreal Projects/Collectathon/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/LW/9YFO3W6GG6RJYFQGNF2PRI.uasset",
+				"/home/alphaspectre/Documents/Unreal Projects/Collectathon/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/U5/43S6SBNE0FTVF08EX9GFQQ.uasset",
+				"/home/alphaspectre/Documents/Unreal Projects/Collectathon/Content/Blueprints/Actors/GameWin.uasset",
+				"/home/alphaspectre/Documents/Unreal Projects/Collectathon/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/ZP/3DYFIWNSYBWBAFXR189GAH.uasset",
+				"/home/alphaspectre/Documents/Unreal Projects/Collectathon/Content/Blueprints/Interfaces/BPI_GameEvents.uasset",
+				"/home/alphaspectre/Documents/Unreal Projects/Collectathon/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"/home/alphaspectre/Documents/Unreal Projects/Collectathon/Content/WB_GameWon.uasset"
+			]
+		}
+	]
+}

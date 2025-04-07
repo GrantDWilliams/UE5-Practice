@@ -1,0 +1,38 @@
+Generating report for minidump
+
+Application version 5.4.4.0
+ ... built from changelist 35576357
+
+OS version Linux 6.11.8-200.fsync.fc40.x86_64 (network name: Grant-Linux)
+Running 8 x86_64 processors (8 logical cores)
+Exception was "SIGSEGV: invalid attempt to read memory at address 0x0000000000000000"
+
+<SOURCE START>
+<SOURCE END>
+
+<CALLSTACK START>
+libnvidia-glcore.so.565.57.01!UnknownFunction(0xa14fc7)
+libnvidia-glcore.so.565.57.01!UnknownFunction(0xe14868)
+libnvidia-glcore.so.565.57.01!UnknownFunction(0xe14b4f)
+libnvidia-glcore.so.565.57.01!UnknownFunction(0xd5005d)
+libUnrealEditor-VulkanRHI.so!VulkanRHI::FFenceManager::WaitForFence(VulkanRHI::FFence*, unsigned long long) [/home/ue4/UnrealEngine/Engine/Source/./Runtime/VulkanRHI/Private/VulkanMemory.cpp:4690]
+libUnrealEditor-VulkanRHI.so!FVulkanSwapChain::AcquireImageIndex(VulkanRHI::FSemaphore**) [/home/ue4/UnrealEngine/Engine/Source/./Runtime/VulkanRHI/Private/VulkanSwapChain.cpp:732]
+libUnrealEditor-VulkanRHI.so!FVulkanViewport::Present(FVulkanCommandListContext*, FVulkanCmdBuffer*, FVulkanQueue*, FVulkanQueue*, bool) [/home/ue4/UnrealEngine/Engine/Source/./Runtime/VulkanRHI/Private/VulkanViewport.cpp:916]
+libUnrealEditor-VulkanRHI.so!FVulkanCommandListContext::RHIEndDrawingViewport(FRHIViewport*, bool, bool) [/home/ue4/UnrealEngine/Engine/Source/./Runtime/VulkanRHI/Private/VulkanRHI.cpp:1184]
+libUnrealEditor-RHI.so!FRHICommand<FRHICommandEndDrawingViewport, FRHICommandEndDrawingViewportString2188>::ExecuteAndDestruct(FRHICommandListBase&, FRHICommandListDebugContext&) [/home/ue4/UnrealEngine/Engine/Source/Runtime/RHI/Public/RHICommandList.h:1295]
+libUnrealEditor-RHI.so!FRHICommandListBase::Execute(TRHIPipelineArray<IRHIComputeContext*>&, FRHICommandListBase::FPersistentState::FGPUStats*) [/home/ue4/UnrealEngine/Engine/Source/./Runtime/RHI/Private/RHICommandList.cpp:477]
+libUnrealEditor-RHI.so!UE::Core::Private::Function::TFunctionRefCaller<FRHICommandListImmediate::ExecuteAndReset(bool)::$_0, void ()>::Call(void*) [/home/ue4/UnrealEngine/Engine/Source/Runtime/Core/Public/Templates/Function.h:405]
+libUnrealEditor-Core.so!TGraphTask<TFunctionGraphTaskImpl<void (), (ESubsequentsMode::Type)0> >::ExecuteTask(TArray<FBaseGraphTask*, TSizedDefaultAllocator<32> >&, ENamedThreads::Type, bool) [/home/ue4/UnrealEngine/Engine/Source/Runtime/Core/Public/Async/TaskGraphInterfaces.h:1235]
+libUnrealEditor-Core.so!FNamedTaskThread::ProcessTasksNamedThread(int, bool) [/home/ue4/UnrealEngine/Engine/Source/./Runtime/Core/Private/Async/TaskGraph.cpp:760]
+libUnrealEditor-Core.so!FNamedTaskThread::ProcessTasksUntilQuit(int) [/home/ue4/UnrealEngine/Engine/Source/./Runtime/Core/Private/Async/TaskGraph.cpp:650]
+libUnrealEditor-RenderCore.so!FRHIThread::Run() [/home/ue4/UnrealEngine/Engine/Source/./Runtime/RenderCore/Private/RenderingThread.cpp:330]
+libUnrealEditor-Core.so!FRunnableThreadPThread::Run() [/home/ue4/UnrealEngine/Engine/Source/./Runtime/Core/Private/HAL/PThreadRunnableThread.cpp:25]
+libUnrealEditor-Core.so!FRunnableThreadPThread::_ThreadProc(void*) [/home/ue4/UnrealEngine/Engine/Source/Runtime/Core/Private/HAL/PThreadRunnableThread.h:187]
+libc.so.6!UnknownFunction(0x976d6)
+libc.so.6!UnknownFunction(0x11b60b)
+
+<CALLSTACK END>
+
+0 loaded modules
+
+Report end!

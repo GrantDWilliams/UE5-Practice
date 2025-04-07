@@ -1,0 +1,27 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/home/alphaspectre/Documents/Unreal Projects/Clicker_2d/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"/home/alphaspectre/Documents/Unreal Projects/Clicker_2d/Content/Clicker.umap",
+				"/home/alphaspectre/Documents/Unreal Projects/Clicker_2d/Content/Maps/Clicker.umap",
+				"/home/alphaspectre/Documents/Unreal Projects/Clicker_2d/Content/Core/Gameplay/ClickerPlayerController.uasset",
+				"/home/alphaspectre/Documents/Unreal Projects/Clicker_2d/Content/Core/Gameplay/ClickerGameMode.uasset",
+				"/home/alphaspectre/Documents/Unreal Projects/Clicker_2d/Content/Core/Gameplay/ClickerGameplay.uasset",
+				"/home/alphaspectre/Documents/Unreal Projects/Clicker_2d/Content/UI/WB_MasterUI.uasset",
+				"/home/alphaspectre/Documents/Unreal Projects/Clicker_2d/Content/Core/ClickerGameInstance.uasset",
+				"/home/alphaspectre/Documents/Unreal Projects/Clicker_2d/Content/Cookie.uasset",
+				"/home/alphaspectre/Documents/Unreal Projects/Clicker_2d/Content/Maps/MainMenu.umap",
+				"/home/alphaspectre/Documents/Unreal Projects/Clicker_2d/Content/UI/WB_MainMenu.uasset",
+				"/home/alphaspectre/Documents/Unreal Projects/Clicker_2d/Content/Core/MainMenu/MainMenuController.uasset",
+				"/home/alphaspectre/Documents/Unreal Projects/Clicker_2d/Content/Core/MainMenu/MainMenuGameMode.uasset",
+				"/home/alphaspectre/Documents/Unreal Projects/Clicker_2d/Content/Core/Gameplay/Clicker_Gameplay.uasset",
+				"/home/alphaspectre/Documents/Unreal Projects/Clicker_2d/Content/Core/Gameplay/PlayerController.uasset",
+				"/home/alphaspectre/Documents/Unreal Projects/Clicker_2d/Content/Core/Gameplay/Gameplay.uasset"
+			]
+		}
+	]
+}
