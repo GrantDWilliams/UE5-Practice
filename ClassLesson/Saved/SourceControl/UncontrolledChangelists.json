@@ -1,0 +1,42 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/home/alphaspectre/Documents/Unreal Projects/ClassLesson/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"/home/alphaspectre/Documents/Unreal Projects/ClassLesson/Content/_Course/Blueprints/BP_GenericActor.uasset",
+				"/home/alphaspectre/Documents/Unreal Projects/ClassLesson/Content/_Course/Blueprints/EnumColorOptions.uasset",
+				"/home/alphaspectre/Documents/Unreal Projects/ClassLesson/Content/_Course/Blueprints/StructLightColor.uasset",
+				"/home/alphaspectre/Documents/Unreal Projects/ClassLesson/Content/_Course/Blueprints/StructLightProperties.uasset",
+				"/home/alphaspectre/Documents/Unreal Projects/ClassLesson/Content/_Course/Blueprints/BP_Platform.uasset",
+				"/home/alphaspectre/Documents/Unreal Projects/ClassLesson/Content/_Course/Blueprints/BP_Floor.uasset",
+				"/home/alphaspectre/Documents/Unreal Projects/ClassLesson/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/MH/5SWM7UMPT9MV8SOD5KLB6F.uasset",
+				"/home/alphaspectre/Documents/Unreal Projects/ClassLesson/Content/_Course/Blueprints/BP_PlatformBase.uasset",
+				"/home/alphaspectre/Documents/Unreal Projects/ClassLesson/Content/_Course/Blueprints/BP_PlatformA.uasset",
+				"/home/alphaspectre/Documents/Unreal Projects/ClassLesson/Content/_Course/Blueprints/BP_Platform_A.uasset",
+				"/home/alphaspectre/Documents/Unreal Projects/ClassLesson/Content/_Course/Blueprints/BP_Platform_B.uasset",
+				"/home/alphaspectre/Documents/Unreal Projects/ClassLesson/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/FX/DROVG4E65SATQDH26JKUPQ.uasset",
+				"/home/alphaspectre/Documents/Unreal Projects/ClassLesson/Content/_Course/Blueprints/BP_Activation.uasset",
+				"/home/alphaspectre/Documents/Unreal Projects/ClassLesson/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/F2/ZDPA5EH2C2ZH3LPM3NC61H.uasset",
+				"/home/alphaspectre/Documents/Unreal Projects/ClassLesson/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/WO/SW5BWNQXXPQB4LL385EY37.uasset",
+				"/home/alphaspectre/Documents/Unreal Projects/ClassLesson/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/2Z/RGFRVPAGU9N3QQQG39PWAV.uasset",
+				"/home/alphaspectre/Documents/Unreal Projects/ClassLesson/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/1C/RT2LTZ23VXJAZEW22EL4JA.uasset",
+				"/home/alphaspectre/Documents/Unreal Projects/ClassLesson/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/F/1H/SH2C57Y3B8FR6REID0W6LE.uasset",
+				"/home/alphaspectre/Documents/Unreal Projects/ClassLesson/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"/home/alphaspectre/Documents/Unreal Projects/ClassLesson/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/PN/ASNXP9KUOUYS8PZJMHFFCH.uasset",
+				"/home/alphaspectre/Documents/Unreal Projects/ClassLesson/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/RU/DA33FJPPMFR8E1QFUOAYWW.uasset",
+				"/home/alphaspectre/Documents/Unreal Projects/ClassLesson/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/OM/FB041GPNY8BMN1AXN3HMF9.uasset",
+				"/home/alphaspectre/Documents/Unreal Projects/ClassLesson/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/YO/KPCEARL19L2GQTEIYJO1QK.uasset",
+				"/home/alphaspectre/Documents/Unreal Projects/ClassLesson/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/A6/CTYIV374TOVRR5A5O26JIE.uasset",
+				"/home/alphaspectre/Documents/Unreal Projects/ClassLesson/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/V1/L9BIPR6KL9LWQKUJ76MQ7K.uasset",
+				"/home/alphaspectre/Documents/Unreal Projects/ClassLesson/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/XM/UHF3LJYNKMGHI7Y4XI3DX9.uasset",
+				"/home/alphaspectre/Documents/Unreal Projects/ClassLesson/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/31/O5VD0745DZPXI0DKRXIK1I.uasset",
+				"/home/alphaspectre/Documents/Unreal Projects/ClassLesson/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/UG/P6P81D80OBU0TI92LD9XBV.uasset",
+				"/home/alphaspectre/Documents/Unreal Projects/ClassLesson/Content/_Course/Blueprints/StructLightProperty.uasset",
+				"/home/alphaspectre/Documents/Unreal Projects/ClassLesson/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/DJ/G8JYFU8APQ7U4OSZFYHNGB.uasset"
+			]
+		}
+	]
+}
